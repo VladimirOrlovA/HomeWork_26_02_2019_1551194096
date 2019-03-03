@@ -176,7 +176,6 @@ void Task2()
 	int dec;
 	cin >> dec;
 
-	//int dec = 259;
 	int arr[1] = { 0 };
 
 	convertDecToOct(arr, dec);
